@@ -42,6 +42,8 @@ Used for exploratory data analysis and visualization:
 - Interactive dashboards  
 - KPI tracking using DAX  
 - Filters and slicers for dynamic analysis  
+### Note: Excel dashboard file size is large, GitHub preview is disabled.
+Please download the file to view the complete dashboard.
 
 ##  Project Structure
 
